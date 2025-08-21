@@ -1,6 +1,8 @@
 # 2b-lc
  2b2t live chat and tab built with fabric, can be used with headless-mc
 
+[Support Server](https://discord.gg/5trvjuqgm8)
+
 # How to use
 - It starts a TCP server on the headless-mc, to get chat and tab list just connect localhost:9090 
 - Giving the chat logs as it is and since 2b2t chat uses <> indicators for playernames a chat message should look like:
